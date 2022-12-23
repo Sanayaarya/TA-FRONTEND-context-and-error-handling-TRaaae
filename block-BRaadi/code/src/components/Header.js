@@ -6,7 +6,7 @@ function Header() {
         <p>Make sure to test error boundary in production build!</p>
       </div>
     </header>
-  );
+  )
 }
 
 export default Header;
